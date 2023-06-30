@@ -1,0 +1,8 @@
+body{
+    background: aqua;
+}
+#camera, #result{
+    border:2px dashed white;
+    width: 350px;
+    height:350px;
+}
